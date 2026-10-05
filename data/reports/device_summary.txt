@@ -1,0 +1,17 @@
+::::: Device Report :::::
+Hostname: Aarohi_Lab
+Model: C8000V
+Version: 17.15.4c
+Serial Number: 9XLWRY40A2V
+Number of Interfaces Up: 8
+
+Interface Status:
+GigabitEthernet1: up
+GigabitEthernet2: up
+GigabitEthernet3: administratively down
+Loopback2: up
+Loopback99: up
+Loopback100: up
+Loopback102: up
+Loopback500: up
+Loopback10040: up
